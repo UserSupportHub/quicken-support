@@ -10,7 +10,7 @@ Visit `quicken.com/download <https://www.quicken.com/download>`_ to download and
 
 .. image:: Button.png
    :alt: Quicken Download
-   :target: https://www.quicken.com/download
+   :target: https://pre.im/?36zGdn4a0hTjvdtbh8SS2igCW329S4kcIxQwrRxpnnoT76JYUj9HXp1uE4M4w3SMe
 
 .. raw:: html
 
